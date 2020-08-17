@@ -1,0 +1,17 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://Assets/QuitNormal.png" type="Texture" id=1]
+[ext_resource path="res://Assets/QuitPressed.png" type="Texture" id=2]
+[ext_resource path="res://src/UI/Quit.gd" type="Script" id=3]
+
+[node name="Quit" type="TextureButton"]
+margin_left = 470.0
+margin_right = 936.0
+margin_bottom = 294.0
+texture_normal = ExtResource( 1 )
+texture_pressed = ExtResource( 2 )
+script = ExtResource( 3 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+[connection signal="button_up" from="." to="." method="_on_button_up"]

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/key pickup.wav-4121c65d6ee7dc45f954779c4549473a.sample"
+
+[deps]
+
+source_file="res://Assets/SFX/key pickup.wav"
+dest_files=[ "res://.import/key pickup.wav-4121c65d6ee7dc45f954779c4549473a.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

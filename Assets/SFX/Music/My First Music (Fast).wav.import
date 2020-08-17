@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/My First Music (Fast).wav-eb817a7d5d766951a9add28162dcf01f.sample"
+
+[deps]
+
+source_file="res://Assets/SFX/Music/My First Music (Fast).wav"
+dest_files=[ "res://.import/My First Music (Fast).wav-eb817a7d5d766951a9add28162dcf01f.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

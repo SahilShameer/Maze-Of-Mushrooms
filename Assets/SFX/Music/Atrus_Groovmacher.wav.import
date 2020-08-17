@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Atrus_Groovmacher.wav-b671c27031c9773a51e9db62aa533bb1.sample"
+
+[deps]
+
+source_file="res://Assets/SFX/Music/Atrus_Groovmacher.wav"
+dest_files=[ "res://.import/Atrus_Groovmacher.wav-b671c27031c9773a51e9db62aa533bb1.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

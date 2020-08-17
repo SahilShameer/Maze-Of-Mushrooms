@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/White_Hats.wav-42b6eb723320378961e8999ba3d0b27b.sample"
+
+[deps]
+
+source_file="res://Assets/SFX/Music/White_Hats.wav"
+dest_files=[ "res://.import/White_Hats.wav-42b6eb723320378961e8999ba3d0b27b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
